@@ -30,7 +30,7 @@ Name | Website | Region
 [AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
-[Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
+[Aha!](/company-profiles/aha.md) | https://www.aha.io | North America
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://www.aivitex.de/ | Germany
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada

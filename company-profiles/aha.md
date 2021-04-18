@@ -19,6 +19,8 @@ Staff are remote.
 
 Worldwide
 
+Current openings is for remote work in US, Canada and Mexico.
+
 ## Company technologies
 
 Ruby on Rails, React, jQuery
